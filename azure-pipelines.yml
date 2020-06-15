@@ -9,7 +9,7 @@ pool:
 variables:
   buildConfiguration: 'Release'
   wwwrootDir: 'Tailspin.SpaceGame.Web/wwwroot'
-  wwwcoverageDir: 'Tailspin.SpaceGame.Web.Tests\TestResults'
+  wwwcoverageDir: 'Tailspin.SpaceGame.Web.Tests/TestResults'
   dotnetSdkVersion: '3.1.300'
 
 steps:
